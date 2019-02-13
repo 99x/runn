@@ -5,7 +5,7 @@ Make your own terminal shortcuts!
 ## Install it
 
 ```
-npm i -g runnit
+$ npm i -g runnit
 ```
 
 ## Save it

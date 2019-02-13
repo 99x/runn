@@ -1,6 +1,6 @@
 # runn
 
-Make your own terminal shortcuts!
+Make your own terminal aliases easily!
 
 ## Install it
 

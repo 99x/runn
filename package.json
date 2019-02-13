@@ -1,0 +1,27 @@
+{
+  "name": "runnit",
+  "version": "1.0.1",
+  "description": "Terminal Shortcuts",
+  "main": "bin/runn",
+  "bin": {
+    "runn": "./bin/runn.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalithasuranga/runn.git"
+  },
+  "author": "shalithasuranga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shalithasuranga/runn/issues"
+  },
+  "homepage": "https://github.com/shalithasuranga/runn#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "configstore": "^4.0.0"
+  }
+}

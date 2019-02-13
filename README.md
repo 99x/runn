@@ -15,3 +15,7 @@ runn cu
 ```
 
 Boom!
+
+### License
+
+MIT

@@ -22,6 +22,10 @@ $ runn cu
 
 Boom!
 
+
+[![GitHub license](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/shalithasuranga)
+
+
 ### License
 
 MIT

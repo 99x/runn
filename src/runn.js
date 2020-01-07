@@ -12,6 +12,7 @@ class Runn {
 
     saveCommand(alias, original) {
         this.config.set(alias, original);
+        console.log(chalk.green(`Command successfully added`));
     }
 
     retriveCommand(alias) {

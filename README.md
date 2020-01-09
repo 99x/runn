@@ -22,4 +22,4 @@ $ runn cu
 
 ### License
 
-MIT
+[MIT](https://github.com/99xt/runn/blob/master/LICENSE)

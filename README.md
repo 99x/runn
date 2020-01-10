@@ -11,7 +11,6 @@ Make your own terminal aliases easily!
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -22,11 +21,7 @@ Make your own terminal aliases easily!
 
 ## About the Project
 
-Make your own terminal aliases easily!
-
-### build with
-
-This project was built using JavaScript
+Runn is a command line tool which help you to make your own terminal aliases easily.
 
 ## Getting Started
 
@@ -37,7 +32,7 @@ You need to install node package manager to runn this!
 * npm
 
 ```sh
-npm install npm@latest -g
+$ npm install npm@latest -g
 ```
 
 ### Installation
@@ -68,7 +63,7 @@ See the [open issues](https://github.com/99xt/runn/issues) for a list of propose
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -79,4 +74,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ### License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT [License](https://github.com/99xt/runn/blob/master/LICENSE). 

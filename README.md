@@ -75,3 +75,10 @@ Contributions are what make the open source community such an amazing place to b
 ### License
 
 Distributed under the MIT [License](https://github.com/99xt/runn/blob/master/LICENSE). 
+
+### Contributors
+<a href="https://github.com/99xt/runn/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=99xt/runn" />
+</a>
+
+Made with [contributors-img](https://contributors-img.firebaseapp.com).

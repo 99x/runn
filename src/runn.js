@@ -22,12 +22,12 @@ class Runn {
     runCommand(cmd) {
         const command = this.retriveCommand(cmd);
         if (!command) {
-            console.log(chalk.red(`Alias "${cmd}" is not defined`));
+            console.log(chalk.red(`Alias '${cmd}' is not defined`));
             return;
         }       
         exec(command, (err, stdout, stderr) => {
             if (err) {
-              console.log(chalk.red(`Unable to execute "${command}"`));
+              console.log(chalk.red(`Unable to execute '${command}'`));
               return;
             }
             if(stdout) console.log(stdout);

@@ -1,32 +1,33 @@
 <div align="center">
-  <pre>
-    ____    _   _   _   _   _   _
-  |  _ \  | | | | | \ | | | \ | |
-  | |_) | | | | | |  \| | |  \| |
-  |  _ <  | |_| | | |\  | | |\  |
-  |_| \_\  \___/  |_| \_| |_| \_|
-        
-  </pre>
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;_&nbsp;__&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_&nbsp;__&nbsp;&nbsp;_&nbsp;__&nbsp;&nbsp;
+&nbsp;|&nbsp;'__|&nbsp;|&nbsp;|&nbsp;|&nbsp;'_&nbsp;\|&nbsp;'_&nbsp;\&nbsp;
+&nbsp;|&nbsp;|&nbsp;&nbsp;|&nbsp;|_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+&nbsp;|_|&nbsp;&nbsp;&nbsp;\__,_|_|&nbsp;|_|_|&nbsp;|_|
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</pre>
 
-  Make your own terminal aliases easily!
+Make your own terminal aliases easily!
 
-  <div>
-    <a href="https://github.com/99xt/runn/issues">
-      <img src="https://img.shields.io/github/issues/99xt/runn" alt="GitHub issues" />
-    </a>
-    <a href="https://github.com/99xt/runn/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/99xt/runn" alt="GitHub contributors" />
-    </a>
-    <a href="https://github.com/99xt/runn/network/members">
-      <img src="https://img.shields.io/github/forks/99xt/runn" alt="GitHub forks" />
-    </a>
-    <a href="https://github.com/99xt/runn/blob/master/LICENSE">
-      <img src="https://img.shields.io/npm/l/chalk" alt="MIT license" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/npm/v/runnit" alt="npm version" />
-    </a>
-  </div>
+<div>
+<a href="https://github.com/99xt/runn/issues">
+<img src="https://img.shields.io/github/issues/99xt/runn" alt="GitHub issues" />
+</a>
+<a href="https://github.com/99xt/runn/graphs/contributors">
+<img src="https://img.shields.io/github/contributors/99xt/runn" alt="GitHub contributors" />
+</a>
+<a href="https://github.com/99xt/runn/network/members">
+<img src="https://img.shields.io/github/forks/99xt/runn" alt="GitHub forks" />
+</a>
+<a href="https://github.com/99xt/runn/blob/master/LICENSE">
+<img src="https://img.shields.io/npm/l/chalk" alt="MIT license" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/npm/v/runnit" alt="npm version" />
+</a>
+</div>
 </div>
 
 ## Table of Contents

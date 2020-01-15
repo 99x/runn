@@ -1,4 +1,7 @@
 # runn
+  ______ _     _ __   _ __   _
+ |_____/ |     | | \  | | \  |
+ |    \_ |_____| |  \_| |  \_|
 
 Make your own terminal aliases easily!
 

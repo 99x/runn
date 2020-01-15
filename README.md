@@ -1,18 +1,33 @@
-# runn
+<div align="center">
+  <pre>
+    ____    _   _   _   _   _   _
+  |  _ \  | | | | | \ | | | \ | |
+  | |_) | | | | | |  \| | |  \| |
+  |  _ <  | |_| | | |\  | | |\  |
+  |_| \_\  \___/  |_| \_| |_| \_|
+        
+  </pre>
 
-```
-  ______ _     _ __   _ __   _
- |_____/ |     | | \  | | \  |
- |    \_ |_____| |  \_| |  \_|
-```
+  Make your own terminal aliases easily!
 
-Make your own terminal aliases easily!
-
-[![GitHub issues](https://img.shields.io/github/issues/99xt/runn)](https://github.com/99xt/runn/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/99xt/runn)](https://github.com/99xt/runn/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/99xt/runn)](https://github.com/99xt/runn/network/members)
-[![MIT license](https://img.shields.io/npm/l/chalk)](https://github.com/99xt/runn/blob/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/runnit)]()
+  <div>
+    <a href="https://github.com/99xt/runn/issues">
+      <img src="https://img.shields.io/github/issues/99xt/runn" alt="GitHub issues" />
+    </a>
+    <a href="https://github.com/99xt/runn/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/99xt/runn" alt="GitHub contributors" />
+    </a>
+    <a href="https://github.com/99xt/runn/network/members">
+      <img src="https://img.shields.io/github/forks/99xt/runn" alt="GitHub forks" />
+    </a>
+    <a href="https://github.com/99xt/runn/blob/master/LICENSE">
+      <img src="https://img.shields.io/npm/l/chalk" alt="MIT license" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/npm/v/runnit" alt="npm version" />
+    </a>
+  </div>
+</div>
 
 ## Table of Contents
 

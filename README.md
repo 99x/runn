@@ -37,6 +37,7 @@ Make your own terminal aliases easily!
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [Example](#example)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -77,6 +78,24 @@ $ runn cu "curl https://raw.githubusercontent.com/shalithasuranga/runn/master/bi
 
 ```sh
 $ runn cu
+```
+
+## Example
+
+1) After installing the NPM packages follow the steps. Steps should be followed from the project directory.
+
+```sh
+$ cd bin
+```
+2) I am adding "git push origin master" to an alias called "gpom".
+
+```sh
+$ node runn.js gpom "git push origin master"
+```
+3) Now your new alias is added. You can use it like below.
+
+```sh
+$ node runn.js gpom 
 ```
 
 ## Roadmap

@@ -25,5 +25,8 @@ if (process.argv.length < 3) {
       })
     )
   );
+
+ program.help();
+
 }
 // if (process.argv.length < 3) program.help();

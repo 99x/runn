@@ -80,23 +80,33 @@ $ runn cu "curl https://raw.githubusercontent.com/shalithasuranga/runn/master/bi
 $ runn cu
 ```
 
-## Example
+## Example(Adding and using some Git commands)
 
-1) After installing the NPM packages follow the steps. Steps should be followed from the project directory.
+1) After setting up, You may follow these steps. (*You can add your alias from anywhere in the directory)
+2) I am adding two git commands to aliases.
 
+a) First lets add "git add ." to an alias called "gaa"
 ```sh
-$ cd bin
+$ runn gaa "git add ."
 ```
-2) I am adding "git push origin master" to an alias called "gpom".
-
+b) Now lets add our second alias for "git push origin master" as "gpom"
 ```sh
-$ node runn.js gpom "git push origin master"
+$ runn gpom "git push origin master"
 ```
-3) Now your new alias is added. You can use it like below.
 
+3) Now your new aliases are added. To use this you need to change your directory to a Github project directory.
+
+a) Using gaa alias
 ```sh
-$ node runn.js gpom 
+$ runn gaa 
 ```
+*You can see that your files are staged.
+
+b) Using gpom alias
+```sh
+$ runn gpom 
+```
+*Your commits will push to origin master 
 
 ## Roadmap
 

@@ -37,6 +37,7 @@ Make your own terminal aliases easily!
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [Example](#example)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -78,6 +79,34 @@ $ runn cu "curl https://raw.githubusercontent.com/shalithasuranga/runn/master/bi
 ```sh
 $ runn cu
 ```
+
+## Example(Adding and using some Git commands)
+
+1) After setting up, You may follow these steps. (*You can add your alias from anywhere in the directory)
+2) I am adding two git commands to aliases.
+
+a) First lets add "git add ." to an alias called "gaa"
+```sh
+$ runn gaa "git add ."
+```
+b) Now lets add our second alias for "git push origin master" as "gpom"
+```sh
+$ runn gpom "git push origin master"
+```
+
+3) Now your new aliases are added. To use this you need to change your directory to a Github project directory.
+
+a) Using gaa alias
+```sh
+$ runn gaa 
+```
+*You can see that your files are staged.
+
+b) Using gpom alias
+```sh
+$ runn gpom 
+```
+*Your commits will push to origin master 
 
 ## Roadmap
 

@@ -4,18 +4,17 @@ let program = require('commander');
 let runn = require('../src/runn');
 let chalk = require('chalk');
 let figlet = require('figlet');
+var pjson = require('../package.json');
 
 program
-  .version('0.1.0')
+  .version(pjson.version)
   .arguments('<cmd> [set]')
-  .action(function(cmd, set) {
+  .action(function (cmd, set) {
     if (set) runn.saveCommand(cmd, set);
     else runn.runCommand(cmd);
   });
 
 program.parse(process.argv);
-
-
 
 if (process.argv.length < 3) {
   console.log(
@@ -26,7 +25,5 @@ if (process.argv.length < 3) {
     )
   );
 
- program.help();
-
+  program.help();
 }
-// if (process.argv.length < 3) program.help();

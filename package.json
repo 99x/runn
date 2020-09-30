@@ -7,7 +7,8 @@
     "runn": "./bin/runn.js"
   },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "get-version": "node -p \"require('./package').version\""
   },
   "repository": {
     "type": "git",
